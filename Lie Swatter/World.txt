@@ -1,0 +1,38 @@
+Japan has square watermelons.
+true
+
+Porcupines can float.
+true
+
+There are 100 dimples on a golf ball.
+false
+Per the Department of Physics at the University of Illinois at Urbana-Champaign, there are between 300 and 500 dimples.
+Cows sleep standing up.
+true
+
+Polar bears’ skin is black.
+true
+
+Alabama is the state printed on a Jack Daniel’s label.
+false
+It’s Tennessee.
+Lightning never strikes the same place twice.
+false
+Lightning can strike anywhere more than once.
+Fortune cookies were invented in China.
+false
+They were invented in the United States.
+Dalmatians are born with black spots.
+false
+They’re born with a white coat and usually develop spots around three weeks old.
+It’s illegal in Georgia to eat fried chicken with a knife and fork.
+true
+Georgia law says you can only eat fried chicken with your bare hands.
+The capital of Libya is Benghazi.
+false
+
+Baby koalas are called joeys.
+true
+
+Brazil is the only country in the Americas whose official language is Portuguese.
+true

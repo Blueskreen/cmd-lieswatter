@@ -1,0 +1,44 @@
+The kids’ bathroom on The Brady Bunch didn’t have a toilet.
+true
+
+Nemo is a puffer fish.
+false
+He is a clown fish.
+There was no World Series in 1994.
+true
+Baseball players were on strike that year.
+John Lennon’s middle name was Edward.
+false
+His middle name was Winston.
+Pinocchio was the first animated, full-color Walt Disney feature film.
+false
+It was Snow White and the Seven Dwarfs.
+In the Star Wars franchise movies, the voice of Yoda is played by the same person who did the voices of Miss Piggy, Grover, and Cookie Monster.
+true
+The voices were performed by FrankOz
+All the kings in a standard deck of cards have a mustache.
+false
+The King of Hearts does not have a mustache.
+Mario of Super Mario Bros. fame was once a carpenter
+true
+He was first introduced as a carpenter in the videogame, DonkeyKong.
+The name of Batman’s butler is Albert
+false
+The butler’s name is Alfred
+Mayim Bialik, who plays Amy Farrah Fowler on the Big Bang Theory,is a neuroscientist.
+true
+She earned her Ph.D.in neuroscience in 2007.
+Donald Duck’s sister is named Donna.
+false
+Her name is Dumbella.
+Elvis Presley had a twin brother
+true
+His twin died at birth.
+In the famous commercial, Jake from State Farm was wearing jeans.
+false
+He was wearing khakis.
+Johnny Depp is afraid of spiders.
+false
+He’s afraid of clowns.
+The first name of Kramer in Seinfeld is Cosmo.
+true

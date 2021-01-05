@@ -1,0 +1,32 @@
+Abraham Lincoln had no middle name.
+true
+
+Ronald Reagan was a waiter during high school.
+false
+He was a lifeguard.
+Broccoli was once banned from the White House.
+true
+In 1990, George H.W. Bush claimed broccoli would no longer be in the White House.
+Before becoming queen, Queen Elizabeth was a mechanic.
+true
+
+The Boston Red Sox finally won a World Seriesin 2016.
+true
+The Chicago Cubs won the series after 108 years.
+The first Olympic games honored Alexander the Great.
+false
+They honored Zeus, the king of the Greek gods.
+United States postage stamps may only honor people who are dead.
+false
+In 2011,that rule was overturned.
+Barack Obama’s favorite app is Candy Crush Saga.
+false
+In an interview with Barbara Walters, Barack Obama said his favorite app is Scrabble.
+Albert Einstein was awarded the Nobel Prize in Physics.
+true
+
+Gone with the Wind takes place in Savannah, Georgia.
+false
+
+The American Civil War ended in 1776.
+false
