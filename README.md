@@ -1,5 +1,5 @@
 # cmd-lieswatter
-A command line version of the jackbox game lie swatter. An extra credit assignment for COS 161.
+A command line version of the jackbox game lie swatter. An extra credit assignment for COS 161, Fall 2019.
 This repo contains an Eclipse project for the game. 
 
 General overview:
